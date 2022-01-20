@@ -1,0 +1,8 @@
+{
+  "name": "LibTest",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "types": "index.d.ts",
+  "version": "1.0.0",
+  "license": "MIT"
+}
